@@ -1,6 +1,6 @@
 # Cached File I/O Library
 
-This repository contains my implementation of a **user-level cached file I/O system**, developed as part of the **[CSCI 0300 (Fundamentals of Computer Systems)](https://csci0300.github.io)** course at Brown University. The project replaces direct system calls with a custom API that reduces disk I/O latency through software-level caching. You can find more information about the project [here]([https://csci0300.github.io/assign/projects/project3.html](https://csci0300.github.io/assign/projects/project3.html)).
+This repository contains my implementation of a **user-level cached file I/O system**, developed as part of the **[CSCI 0300 (Fundamentals of Computer Systems)](https://csci0300.github.io)** course at Brown University. The project replaces direct system calls with a custom API that reduces disk I/O latency through software-level caching. You can find more information about the project [here](https://csci0300.github.io/assign/projects/project3.html](https://csci0300.github.io/assign/projects/project3.html).
 
 ---
 
